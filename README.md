@@ -19,4 +19,4 @@ Give your anonymous feedback <a href="https://forms.gle/JzxMGb3VfQLDR9Px8">here<
 
 
 ## Announcement <br />
-* [19/06/2020]: Due to the COVID-19 pandemic all the classes of these are going to be condcuted in online. 
+* [19/06/2020]: Due to the COVID-19 pandemic situtation all of the classes of these courses, henceforth, are going to be condcuted in online. Contact respective CR for time & connection.

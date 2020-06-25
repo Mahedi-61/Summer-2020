@@ -1,4 +1,4 @@
-<img src="./appendix/img/neural_network.gif" width="400" height="300" /> <img src="./appendix/img/logistic_regression.gif" width="400" height="300" /> <br/>
+<img src="./appendix/img/neural_network.gif" width="410" height="300" /> <img src="./appendix/img/logistic_regression.gif" width="400" height="300" /> <br/>
  
 
 ## Course Description
